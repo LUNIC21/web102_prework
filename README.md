@@ -35,7 +35,9 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I have faced was to be familiar and understand how to use branching and forking.
+I have used git for small personal projects, but have not worked with branching or forking other people's code, so it took some time for me to understand.
+
 
 ## License
 

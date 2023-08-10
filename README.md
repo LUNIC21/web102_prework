@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
-Adding sample videos of the game
+* [x] List anything else that you can get done to improve the app functionality!\n
+-Adding sample videos of the game
 
 ## Video Walkthrough
 
